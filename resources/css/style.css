@@ -131,6 +131,7 @@ header .tablet {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
+  background: white url("../images/banner-landingpage.jpg") right/cover no-repeat;
 }
 
 #sign-up-cta {
@@ -138,6 +139,7 @@ header .tablet {
   border: solid 1px #979797;
   border-radius: 4px;
   background-color: #9dc20b;
+  margin: 10.625rem 6.25rem;
 }
 
 #sign-up-cta .content {
