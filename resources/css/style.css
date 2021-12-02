@@ -256,6 +256,10 @@ header .tablet {
   margin: 0 auto;
 }
 
+.feature .image-container img {
+  width: 100%;
+}
+
 .feature h2 {
   padding-bottom: .5rem;
   font-size: 2.25rem;
